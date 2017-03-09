@@ -1,0 +1,7 @@
+development:
+    adapter: postgresql
+    database: vintage_development
+
+test:
+  adapter: postgresql
+  database: vintage_test

@@ -1,0 +1,60 @@
+body{
+  background-image: url("../images/vc3.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+.re-story{
+  color: #0083cc;
+}
+.general-services{
+  color: #0083cc;
+}
+.ra{
+  color: #0083cc;
+  float: right;
+}
+.rb{
+  color: #0083cc;
+  float: left;; 
+}
+.row{
+  margin-bottom: 20px;
+}
+.general-services{
+  color: #0083cc;
+}
+#bodywork{
+  background-image: url("../images/bodywork.jpg");
+  padding: 40% 0;
+  text-align: center;
+}
+#servicing{
+  background-image: url("../images/servicing.jpg");
+  padding: 40% 0;
+  text-align: center;
+}
+#paintwork{
+  background-image: url("../images/paintwork.jpg");
+  padding: 40% 0;
+  text-align: center;
+}
+#interior{
+  background-image: url("../images/interior.jpg");
+  padding: 40% 0;
+  text-align: center;
+}
+#mechanic{
+  background-image: url("../images/mechanic.jpg");
+  padding: 40% 0;
+  text-align: center;
+}
+#woodwork{
+  background-image: url("../images/woodwork.jpg");
+  padding: 40% 0;
+  text-align: center;
+}
+.subs{
+  color: #024970;
+  font-weight: bold;
+}
